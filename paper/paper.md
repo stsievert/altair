@@ -32,7 +32,7 @@ affiliations:
     index: 1
   - name: California Polytechnic State University, San Luis Obispo
     index: 2
-  - name: University of Wisconsin, Madison
+  - name: University of Wisconsin--Madison
     index: 3
   - name: Florida State University
     index: 4
